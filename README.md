@@ -1,3 +1,3 @@
-# Magento 2 - Widget Extension Name
+# Magewire Plugin - Private Content Version
 
-"widget_name" parameter is displayed in CMS Editor
+Disables the update of private content version on POST requests
