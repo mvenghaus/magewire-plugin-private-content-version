@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Event/etc/events.xsd">
+    <event name="private_content_version_update">
+        <observer name="MVenghaus_MagewirePluginPrivateContentVersion_Observer_PrivateContentVersionUpdate"
+                  instance="MVenghaus\MagewirePluginPrivateContentVersion\Observer\PrivateContentVersionUpdate"
+        />
+    </event>
+</config>
