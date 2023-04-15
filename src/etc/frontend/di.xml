@@ -5,11 +5,4 @@
         <plugin name="MVenghaus_MagewirePluginPrivateContentVersion_Plugin_Magento_Framework_App_PageCache_VersionPlugin"
                 type="MVenghaus\MagewirePluginPrivateContentVersion\Plugin\Magento\Framework\App\PageCache\VersionPlugin"/>
     </type>
-
-    <type name="MVenghaus\MagewirePluginPrivateContentVersion\Model\MagewireUrls">
-        <arguments>
-            <argument name="urls" xsi:type="array">
-            </argument>
-        </arguments>
-    </type>
 </config>

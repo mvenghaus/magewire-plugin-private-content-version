@@ -7,7 +7,7 @@ namespace MVenghaus\MagewirePluginPrivateContentVersion\Model;
 class MagewireUrls
 {
     public function __construct(
-        private readonly array $urls
+        private readonly array $urls = []
     ) {
     }
 
